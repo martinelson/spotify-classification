@@ -1,0 +1,9 @@
+token.txt
+venv/
+tracks.txt
+tracks_output.txt
+plots/
+plots_2/
+plots_3/
+plots_4/
+.idea/
